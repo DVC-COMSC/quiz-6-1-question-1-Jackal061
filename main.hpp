@@ -1,8 +1,7 @@
 
-//********************
-// Declare Function Prototypes
-//********************
+#include <iostream>
+using namespace std;
 
-// ******************************
-// Implement all your functions here
-// ******************************
+void getTwoValues(int, int);
+int getNextPrime(int);
+int getPrevPrime(int);
